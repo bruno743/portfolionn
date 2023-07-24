@@ -23,7 +23,7 @@
   "about": {
     "title": "About",
     "name": "Sobre mim",
-    "image": "/images/profile.png",
+    "image": "./images/profile.png",
     "primary": "Olá para você do outro lado da tela, sou Bruno, um desenvolvedor mobile, sempre curioso a respeito deste universo do desenvolvimento, eu estudei Ciência da Computação na Universidade Federal do Piauí e hoje busco conhecer muitas pessoas interessantes e superar os mais diversos desafios nesta carreira.",
     "secondary": ""
   },
@@ -35,14 +35,14 @@
         "description": "Um reprodutor de áudio simples. Esta aplicação é capaz de acessar os arquivos de áudio de um dispositivo e exibi-los em uma lista, além de apresentar controles básicos para a reprodução dos mesmos.",
         "url": "http://www.example.com/project1",
         "github": "https://github.com/bruno743/react-native-audio-player",
-        "image": "/images/audio_tela1.png"
+        "image": "./images/audio_tela1.png"
       },
       {
 				"title": "Custom Todo List",
 				"description": "Uma aplicação que permite a criação de múltiplas listas de tarefas, listas que têm seus dados persistidos no didpositivo após o encerramento do aplicativo - utilizando o Isar Database.",
 				"url": "http://www.example.com/project2",
         "github": "https://github.com/bruno743/flutter-custom-lista-todo",
-				"image": "/images/todo_tela2.png"
+				"image": "./images/todo_tela2.png"
 			}
     ]
   },
