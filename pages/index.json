@@ -1,0 +1,59 @@
+{
+  "navigation": [
+		{
+			"title": "Sobre mim",
+      "name": "About",
+			"url": "http://www.example.com/sobremim"
+		},
+		{
+			"title": "Projetos",
+      "name": "Projetos",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contato",
+      "name": "Contato",
+			"url": "http://www.example.com/contato"
+		}
+	],
+  "hero": {
+    "name": "Bruno Felipe",
+    "subtitle": "Sou Desenvolvedor Mobile."
+  },
+  "about": {
+    "title": "About",
+    "name": "Sobre mim",
+    "image": "/images/profile.png",
+    "primary": "Olá para você do outro lado da tela, sou Bruno, um desenvolvedor mobile, sempre curioso a respeito deste universo do desenvolvimento, eu estudei Ciência da Computação na Universidade Federal do Piauí e hoje busco conhecer muitas pessoas interessantes e superar os mais diversos desafios nesta carreira.",
+    "secondary": ""
+  },
+  "projects": {
+    "title": "Projetos",
+    "projects": [
+      {
+        "title": "React Native Audio Player",
+        "description": "Um reprodutor de áudio simples. Esta aplicação é capaz de acessar os arquivos de áudio de um dispositivo e exibi-los em uma lista, além de apresentar controles básicos para a reprodução dos mesmos.",
+        "url": "http://www.example.com/project1",
+        "github": "https://github.com/bruno743/react-native-audio-player",
+        "image": "/images/audio_tela1.png"
+      },
+      {
+				"title": "Custom Todo List",
+				"description": "Uma aplicação que permite a criação de múltiplas listas de tarefas, listas que têm seus dados persistidos no didpositivo após o encerramento do aplicativo - utilizando o Isar Database.",
+				"url": "http://www.example.com/project2",
+        "github": "https://github.com/bruno743/flutter-custom-lista-todo",
+				"image": "/images/todo_tela2.png"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contato",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/bruno-felipe-608a85219/",
+		"twitter": "",
+		"github": "https://github.com/bruno743"
+	}
+}
