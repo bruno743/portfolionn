@@ -32,7 +32,7 @@
     "projects": [
       {
         "title": "Volley Reserves",
-        "description": "Uma aplicação que permite que seus usuários autenticados reservem horários para a utilização de quadras de volêi.",
+        "description": "Uma aplicação que permite que seus usuários autenticados reservem horários para a utilização de quadras de vôlei.",
         "url": "http://www.example.com/project1",
         "github": "https://github.com/bruno743/volleyreserves",
         "image": "./images/volley_tela1.png"
