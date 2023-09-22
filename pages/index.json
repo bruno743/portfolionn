@@ -39,7 +39,7 @@
       },
       {
         "title": "Casa de eventos",
-        "description": "Um aplicativo para que um estabelecimento possa ofertar a venda de ingressos para os eventos qe o mesmo realize.",
+        "description": "Um aplicativo para que um estabelecimento possa ofertar a venda de ingressos para os eventos que o mesmo realize.",
         "url": "http://www.example.com/project2",
         "github": "https://github.com/bruno743/casa_de_eventos",
         "image": "./images/eventos_tela1.png"
